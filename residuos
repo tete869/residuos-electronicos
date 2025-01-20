@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reciclaje de Residuos Electrónicos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        img, iframe {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Reciclaje de Residuos Electrónicos</h1>
+        <p>Todo lo que necesitas saber para gestionar los residuos electrónicos de forma responsable</p>
+    </header>
+
+    <nav>
+        <a href="#beneficios">Beneficios</a>
+        <a href="#tipos">Tipos de Residuos</a>
+        <a href="#pasos">Cómo Reciclar</a>
+        <a href="#estadisticas">Estadísticas</a>
+        <a href="#consejos">Consejos</a>
+    </nav>
+
+    <section id="beneficios">
+        <h2>Beneficios del Reciclaje de Residuos Electrónicos</h2>
+        <img src="https://via.placeholder.com/800x400" alt="Imagen de beneficios del reciclaje electrónico">
+        <iframe src="https://www.youtube.com/embed/8J6HB8Wn8Lg" title="Beneficios del reciclaje" frameborder="0" allowfullscreen></iframe>
+        <p>El reciclaje de residuos electrónicos es esencial para reducir el impacto ambiental. Sus beneficios incluyen:</p>
+        <ul>
+            <li><strong>Reducción de sustancias tóxicas:</strong> Evita que metales pesados como el mercurio y el plomo contaminen el medio ambiente.</li>
+            <li><strong>Recuperación de materiales valiosos:</strong> Permite reutilizar materiales como oro, cobre y aluminio.</li>
+            <li><strong>Disminución de la basura electrónica:</strong> Reduce los desechos en vertederos y la contaminación visual.</li>
+            <li><strong>Conservación de recursos:</strong> Minimizamos la extracción de nuevos recursos naturales.</li>
+        </ul>
+    </section>
+
+    <section id="tipos">
+        <h2>Tipos de Residuos Electrónicos</h2>
+        <img src="https://via.placeholder.com/800x400" alt="Tipos de residuos electrónicos">
+        <iframe src="https://www.youtube.com/embed/WaVNkgNx2G8" title="Tipos de residuos electrónicos" frameborder="0" allowfullscreen></iframe>
+        <p>Los residuos electrónicos incluyen una amplia gama de dispositivos que ya no se utilizan, como:</p>
+        <ul>
+            <li><strong>Electrodomésticos pequeños:</strong> Licuadoras, cafeteras, secadores de pelo.</li>
+            <li><strong>Equipos de informática:</strong> Computadoras, teclados, discos duros.</li>
+            <li><strong>Teléfonos móviles:</strong> Smartphones, cargadores, baterías.</li>
+            <li><strong>Electrónica de consumo:</strong> Televisores, cámaras, consolas de videojuegos.</li>
+            <li><strong>Equipos industriales:</strong> Herramientas eléctricas, sensores, maquinaria especializada.</li>
+        </ul>
+    </section>
+
+    <section id="pasos">
+        <h2>Cómo Reciclar Residuos Electrónicos</h2>
+        <img src="https://via.placeholder.com/800x400" alt="Pasos para reciclar residuos electrónicos">
+        <iframe src="https://www.youtube.com/embed/d9IN7W4PJbM" title="Cómo reciclar residuos electrónicos" frameborder="0" allowfullscreen></iframe>
+        <p>El reciclaje de residuos electrónicos implica varios pasos clave:</p>
+        <ol>
+            <li><strong>Identificación:</strong> Revisa tus dispositivos electrónicos y determina cuáles ya no usas.</li>
+            <li><strong>Separación:</strong> Clasifica los residuos electrónicos según su tipo (baterías, plásticos, metales, etc.).</li>
+            <li><strong>Entrega:</strong> Lleva los residuos a centros especializados en reciclaje de electrónicos.</li>
+            <li><strong>Reutilización:</strong> Si es posible, dona dispositivos que aún funcionen para extender su vida útil.</li>
+        </ol>
+    </section>
+
+    <section id="estadisticas">
+        <h2>Estadísticas sobre Residuos Electrónicos</h2>
+        <img src="https://via.placeholder.com/800x400" alt="Gráfica sobre estadísticas de residuos electrónicos">
+        <iframe src="https://www.youtube.com/embed/x3w4CXVPfDs" title="Estadísticas de residuos electrónicos" frameborder="0" allowfullscreen></iframe>
+        <p>Algunos datos importantes sobre residuos electrónicos:</p>
+        <ul>
+            <li>En 2023, se generaron 53.6 millones de toneladas de basura electrónica a nivel mundial.</li>
+            <li>Menos del 20% de los residuos electrónicos se reciclan adecuadamente.</li>
+            <li>Un teléfono móvil contiene hasta 60 elementos químicos, muchos de ellos recuperables.</li>
+        </ul>
+    </section>
+
+    <section id="consejos">
+        <h2>Consejos para Reducir y Reciclar Residuos Electrónicos</h2>
+        <img src="https://via.placeholder.com/800x400" alt="Consejos para reducir residuos electrónicos">
+        <iframe src="https://www.youtube.com/embed/5oVj5mN-v9M" title="Consejos sobre reciclaje" frameborder="0" allowfullscreen></iframe>
+        <p>Algunos consejos para gestionar mejor tus residuos electrónicos:</p>
+        <ul>
+            <li><strong>Compra responsable:</strong> Elige dispositivos con mayor durabilidad y eficiencia energética.</li>
+            <li><strong>Repara:</strong> Antes de desechar un dispositivo, considera repararlo.</li>
+            <li><strong>Actualiza:</strong> En lugar de comprar uno nuevo, actualiza el software o componentes del existente.</li>
+            <li><strong>Infórmate:</strong> Investiga los puntos de reciclaje más cercanos en tu localidad.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Guía de Reciclaje Electrónico. Todos los derechos reservados.</p>
+        <p>Síguenos en nuestras redes sociales para más consejos y novedades sobre gestión de residuos electrónicos.</p>
+    </footer>
+</body>
+</html>
